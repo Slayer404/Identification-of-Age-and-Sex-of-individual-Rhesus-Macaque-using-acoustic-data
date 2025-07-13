@@ -1,6 +1,6 @@
 # 🐒 Identification of Age-Sex Individual of Rhesus Macaque (Macaca mulatta) Based on Acoustic Data
 
-This project is a final-year B.Tech dissertation developed by **Sasanka Barman** and **Himangki Das** under the guidance of **Dr. Lachit Dutta**, as part of the **Department of Electronics and Communication Engineering**, **Gauhati University**.
+This project is a final-year B.Tech dissertation developed by **Sasanka Barman** under the guidance of **Dr. Lachit Dutta**, as part of the **Department of Electronics and Communication Engineering**, **Gauhati University**.
 
 ---
 
